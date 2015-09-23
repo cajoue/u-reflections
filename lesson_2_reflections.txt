@@ -24,6 +24,8 @@ organized? How would branches help?
 	Branches would help to keep the variations away from the master code.
 
 How do the diagrams help you visualize the branch structure?
+	It helps to clarify the history path and how different paths relate to each
+	other - or not!
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

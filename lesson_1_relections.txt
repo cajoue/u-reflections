@@ -1,0 +1,46 @@
+1. How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	It helped because all the similarities are stripped out so that you can focus
+	only on the areas that changed. It narrows the data down.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    you have access to how the file evolved and could follow a route back to the
+    start of where different elements came to be.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros - can commit at the end of a logical process (eg bug fix) or addition of
+    new feature, or after code cleaning.
+    Cons - may forget to commit until the end of the day/week and there will be
+    many more differnces between the versions - harder to track down problems
+    and manage changes
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is built for coding and development and expects that several files will
+    be interrelated and that changes in one very often mean changes in another.
+
+    Google docs doesn't work in a repo environment, there is no expectation
+    of interdependency.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    with git log you can see the change history of your files and with proper
+    messages it is easy to locate a particular stage of development.
+
+    with git diff, you can see the actual changes made between commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Very confident - as you can always rewind to the safe place :)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Managing my adventures in coding :) without worrying I'll screw things up!

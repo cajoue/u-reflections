@@ -48,4 +48,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than
 directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Separate branch, for new features, bug fixes, weird stuff. This keeps master safe from potentailly harmful changes.
+
+    Working directly on master is easier, but shouldn't be subject to un-approved commits when working collaboratively.

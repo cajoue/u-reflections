@@ -36,7 +36,14 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    How: by talking with colleague, phone, email, shared directory, dropbox or
+    similar
+
+    Easier: immediate feedback with talking or by phone.
+
+    Harder: keeping up with the changes if they aren't logged, not notified,
+    the usual communication issues. Keeping track of, and easy highlighting of
+    code differences. Manual searching for errors/conflicts.
 
 When would you want to make changes in a separate branch rather than
 directly in master?  What benefits does each approach have?
